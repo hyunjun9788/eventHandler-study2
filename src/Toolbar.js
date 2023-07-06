@@ -1,3 +1,4 @@
+import React from 'react'
 const styles={
     wrapper:{
         padding:16,
@@ -25,3 +26,5 @@ function Toolbar(props){
         </div>
     )
 }
+
+export default Toolbar
